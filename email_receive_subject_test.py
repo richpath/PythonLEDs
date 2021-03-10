@@ -19,8 +19,8 @@ leds.fill((0,0,255))
 leds.show()
 print(checkdate)
 
-EMAIL = 'rich@rich-path.com'
-PASSWORD = 'Schitz15!'
+EMAIL = 'lightbox@rich-path.com'
+PASSWORD = '*****'
 SERVER = 'mail.rich-path.com'
 
 mail = imaplib.IMAP4_SSL(SERVER)
